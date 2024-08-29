@@ -53,7 +53,7 @@ Or with Yarn:
 yarn dev
 ```
 
-This will start the Vite development server, and you can view your application in the browser at `http://localhost:3000`.
+This will start the Vite development server, and you can view your application in the browser at `http://localhost:5173`.
 
 ## Project Structure
 
